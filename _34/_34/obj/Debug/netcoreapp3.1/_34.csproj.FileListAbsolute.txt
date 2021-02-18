@@ -1,0 +1,13 @@
+C:\Users\Gamze\Desktop\57 øvelser\_34\_34\bin\Debug\netcoreapp3.1\_34.exe
+C:\Users\Gamze\Desktop\57 øvelser\_34\_34\bin\Debug\netcoreapp3.1\_34.deps.json
+C:\Users\Gamze\Desktop\57 øvelser\_34\_34\bin\Debug\netcoreapp3.1\_34.runtimeconfig.json
+C:\Users\Gamze\Desktop\57 øvelser\_34\_34\bin\Debug\netcoreapp3.1\_34.runtimeconfig.dev.json
+C:\Users\Gamze\Desktop\57 øvelser\_34\_34\bin\Debug\netcoreapp3.1\_34.dll
+C:\Users\Gamze\Desktop\57 øvelser\_34\_34\bin\Debug\netcoreapp3.1\_34.pdb
+C:\Users\Gamze\Desktop\57 øvelser\_34\_34\obj\Debug\netcoreapp3.1\_34.csprojAssemblyReference.cache
+C:\Users\Gamze\Desktop\57 øvelser\_34\_34\obj\Debug\netcoreapp3.1\_34.AssemblyInfoInputs.cache
+C:\Users\Gamze\Desktop\57 øvelser\_34\_34\obj\Debug\netcoreapp3.1\_34.AssemblyInfo.cs
+C:\Users\Gamze\Desktop\57 øvelser\_34\_34\obj\Debug\netcoreapp3.1\_34.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\Desktop\57 øvelser\_34\_34\obj\Debug\netcoreapp3.1\_34.dll
+C:\Users\Gamze\Desktop\57 øvelser\_34\_34\obj\Debug\netcoreapp3.1\_34.pdb
+C:\Users\Gamze\Desktop\57 øvelser\_34\_34\obj\Debug\netcoreapp3.1\_34.genruntimeconfig.cache
