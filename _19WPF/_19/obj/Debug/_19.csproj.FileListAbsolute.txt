@@ -1,0 +1,44 @@
+C:\Users\Gamze\Desktop\_19\_19\bin\Debug\_19.exe.config
+C:\Users\Gamze\Desktop\_19\_19\bin\Debug\_19.exe
+C:\Users\Gamze\Desktop\_19\_19\bin\Debug\_19.pdb
+C:\Users\Gamze\Desktop\_19\_19\obj\Debug\_19.csprojAssemblyReference.cache
+C:\Users\Gamze\Desktop\_19\_19\obj\Debug\MainWindow.g.cs
+C:\Users\Gamze\Desktop\_19\_19\obj\Debug\App.g.cs
+C:\Users\Gamze\Desktop\_19\_19\obj\Debug\_19_MarkupCompile.cache
+C:\Users\Gamze\Desktop\_19\_19\obj\Debug\_19_MarkupCompile.lref
+C:\Users\Gamze\Desktop\_19\_19\obj\Debug\MainWindow.baml
+C:\Users\Gamze\Desktop\_19\_19\obj\Debug\_19.g.resources
+C:\Users\Gamze\Desktop\_19\_19\obj\Debug\_19.Properties.Resources.resources
+C:\Users\Gamze\Desktop\_19\_19\obj\Debug\_19.csproj.GenerateResource.cache
+C:\Users\Gamze\Desktop\_19\_19\obj\Debug\_19.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\Desktop\_19\_19\obj\Debug\_19.exe
+C:\Users\Gamze\Desktop\_19\_19\obj\Debug\_19.pdb
+C:\Users\Gamze\Desktop\57 øvelser\_19WPF\_19\bin\Debug\_19.exe.config
+C:\Users\Gamze\Desktop\57 øvelser\_19WPF\_19\bin\Debug\_19.exe
+C:\Users\Gamze\Desktop\57 øvelser\_19WPF\_19\bin\Debug\_19.pdb
+C:\Users\Gamze\Desktop\57 øvelser\_19WPF\_19\obj\Debug\_19.csprojAssemblyReference.cache
+C:\Users\Gamze\Desktop\57 øvelser\_19WPF\_19\obj\Debug\MainWindow.g.cs
+C:\Users\Gamze\Desktop\57 øvelser\_19WPF\_19\obj\Debug\App.g.cs
+C:\Users\Gamze\Desktop\57 øvelser\_19WPF\_19\obj\Debug\_19_MarkupCompile.cache
+C:\Users\Gamze\Desktop\57 øvelser\_19WPF\_19\obj\Debug\_19_MarkupCompile.lref
+C:\Users\Gamze\Desktop\57 øvelser\_19WPF\_19\obj\Debug\MainWindow.baml
+C:\Users\Gamze\Desktop\57 øvelser\_19WPF\_19\obj\Debug\_19.g.resources
+C:\Users\Gamze\Desktop\57 øvelser\_19WPF\_19\obj\Debug\_19.Properties.Resources.resources
+C:\Users\Gamze\Desktop\57 øvelser\_19WPF\_19\obj\Debug\_19.csproj.GenerateResource.cache
+C:\Users\Gamze\Desktop\57 øvelser\_19WPF\_19\obj\Debug\_19.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\Desktop\57 øvelser\_19WPF\_19\obj\Debug\_19.exe
+C:\Users\Gamze\Desktop\57 øvelser\_19WPF\_19\obj\Debug\_19.pdb
+C:\Users\Gamze\Desktop\57 ovelser\_19WPF\_19\obj\Debug\MainWindow.g.cs
+C:\Users\Gamze\Desktop\57 ovelser\_19WPF\_19\obj\Debug\App.g.cs
+C:\Users\Gamze\Desktop\57 ovelser\_19WPF\_19\obj\Debug\_19_MarkupCompile.cache
+C:\Users\Gamze\Desktop\57 ovelser\_19WPF\_19\obj\Debug\_19_MarkupCompile.lref
+C:\Users\Gamze\Desktop\57 ovelser\_19WPF\_19\obj\Debug\_19.exe
+C:\Users\Gamze\Desktop\57 ovelser\_19WPF\_19\obj\Debug\_19.pdb
+C:\Users\Gamze\Desktop\57 ovelser\_19WPF\_19\bin\Debug\_19.exe.config
+C:\Users\Gamze\Desktop\57 ovelser\_19WPF\_19\bin\Debug\_19.exe
+C:\Users\Gamze\Desktop\57 ovelser\_19WPF\_19\bin\Debug\_19.pdb
+C:\Users\Gamze\Desktop\57 ovelser\_19WPF\_19\obj\Debug\MainWindow.baml
+C:\Users\Gamze\Desktop\57 ovelser\_19WPF\_19\obj\Debug\_19.g.resources
+C:\Users\Gamze\Desktop\57 ovelser\_19WPF\_19\obj\Debug\_19.Properties.Resources.resources
+C:\Users\Gamze\Desktop\57 ovelser\_19WPF\_19\obj\Debug\_19.csproj.GenerateResource.cache
+C:\Users\Gamze\Desktop\57 ovelser\_19WPF\_19\obj\Debug\_19.csproj.CoreCompileInputs.cache
