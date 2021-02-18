@@ -1,0 +1,14 @@
+﻿<Window x:Class="_48.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_48"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="LightBlue">
+    <Grid>
+        <Button x:Name="print" Content="See weather" Width="100" Height="30" FontSize="16" Margin="200,0,0,200" Click="print_Click"></Button>
+        <TextBox x:Name="input" Text="Search for city" FontSize="16" Margin="0,0,190,200" Height="50" Width="200"></TextBox>
+        <TextBox x:Name="result" Margin="0,0,0,0" Height="100" Width="400"></TextBox>
+    </Grid>
+</Window>
